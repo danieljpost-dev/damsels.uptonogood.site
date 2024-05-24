@@ -1,11 +1,11 @@
 {
   "tags": [
     {
-      "name" : "shibari",
+      "__id" : "shibari",
       "level" : 1
     },
     {
-      "name" : "kinbaku",
+      "__id" : "kinbaku",
       "level" : 2
     }
   ]
